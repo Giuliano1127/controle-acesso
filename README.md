@@ -17,5 +17,5 @@ Este projeto simula um sistema de controle de acesso usando:
 
 ## Simulação online
 
- [Abrir simulação no Wokwi](https://wokwi.com/projects/421609758785386497))
+ [Abrir simulação no Wokwi](https://wokwi.com/projects/421609758785386497)
 
